@@ -9,8 +9,14 @@
 
 ![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## ⚙️ Getting Started
+
+To get started install any userscript manager extension in your browser, such as [**Tampermonkey**](https://www.tampermonkey.net/), [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [**Violentmonkey**](https://violentmonkey.github.io/), then click <a href="https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js" target="_blank"><b>here</b></a> for a clean installation of a script you can use to disable moderation of GPT messages.
+
+
 [**CLICK HERE**](https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js)
 
+![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Prompts
 
