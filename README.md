@@ -1,6 +1,6 @@
 <p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
 
-[CLICK HERE](https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js)
+[**CLICK HERE**](https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js)
 
 
 # Prompts
