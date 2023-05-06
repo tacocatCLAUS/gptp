@@ -3,16 +3,6 @@
   Automatic ChatGPT DAN
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadkarmaa%2Fautomatic-chatgpt-dan%2Fmaster%2Fversion.json&style=for-the-badge" alt="version">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-</p>
-
-<p align="center">
-  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-3.6.4-informational?style=flat-square&logo=jQuery&logoColor=white" alt="jquery-version"></a>
-  <a href="https://momentjs.com/"><img src="https://img.shields.io/badge/Moment.js-2.29.4-informational?style=flat-square&logo=buddy&logoColor=white" alt="momentjs-version"></a>
-</p>
-
 > _"Very smart people have found a way to outmaneuver the limits of ChatGPT and unleash its unfiltered, opinionated, and untethered alter-ego: DAN (Do Anything Now). It’s so simple that anyone can access the jailbreak simply by copying and pasting a prewritten paragraph of text into the chatbot"_
 >
 > \- [iflscience.com](https://www.iflscience.com/how-to-unlock-dan-the-unfiltered-and-opinionated-alter-ego-of-chatgpt-67754)
