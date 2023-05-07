@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="fdd5cb10-07d6-4961-a894-01590bdc38f2.png" alt="icon" style="width: 65px; height: 65px"><br>
-  GPTPrompts
+  GPTPʀᴏᴍᴘᴛꜱ
 </h1>
-## ⚙️ Getting Started
-> _"Very smart people have found a way to outmaneuver the limits of ChatGPT and unleash its unfiltered, opinionated, and untethered alter-ego: DAN (Do Anything Now). It’s so simple that anyone can access the jailbreak simply by copying and pasting a prewritten paragraph of text into the chatbot"_
+
+>"Very smart people have found a way to outmaneuver the limits of ChatGPT and unleash its unfiltered, opinionated, and untethered alter-ego: DAN (Do Anything Now). It’s so simple that anyone can access the jailbreak simply by copying and pasting a prewritten paragraph of text into the chatbot"_
 >
 > \- [iflscience.com](https://www.iflscience.com/how-to-unlock-dan-the-unfiltered-and-opinionated-alter-ego-of-chatgpt-67754)
 
