@@ -16,6 +16,8 @@
 
 GPTPʀᴏᴍᴘᴛꜱ is a comprehensive and diverse resource for Chat GPT prompts collected by [**CLAUS**](https://claus.rf.gd), boasting an extensive collection of prompts that cover a broad range of topics and use cases. Whether you want to jailbreak GPT, generate code, or simply have fun with a lot of prompts, GPTPʀᴏᴍᴘꜱ can provide you with a wealth of prompts to choose from. Much more information in the [**WIKI**](https://github.com/tacocatCLAUS/gptp/wiki)
 
+![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## ⚙️ Getting Started
 
 To get started install any userscript manager extension in your browser, such as [**Tampermonkey**](https://www.tampermonkey.net/), [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [**Violentmonkey**](https://violentmonkey.github.io/), then click <a href="https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js" target="_blank"><b>here</b></a> for a clean installation of a script you can use to disable [moderation of gpt messages](https://github.com/tacocatCLAUS/gptp/wiki/Moderation-Scripts). 
