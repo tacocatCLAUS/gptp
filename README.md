@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 <h1 align="center">
   <img src="fdd5cb10-07d6-4961-a894-01590bdc38f2.png" alt="icon" style="width: 65px; height: 65px"><br>
