@@ -14,7 +14,7 @@
 
 ## 🔍 About
 
-GPTPʀᴏᴍᴘᴛꜱ is a comprehensive and diverse resource for Chat GPT prompts collected by [**CLAUS**](https://claus.rf.gd), boasting an extensive collection of prompts that cover a broad range of topics and use cases. Whether you want to jailbreak GPT, generate code, or simply have fun with a lot of prompts, GPTPʀᴏᴍᴘꜱ can provide you with a wealth of prompts to choose from.
+GPTPʀᴏᴍᴘᴛꜱ is a comprehensive and diverse resource for Chat GPT prompts collected by [**CLAUS**](https://claus.rf.gd), boasting an extensive collection of prompts that cover a broad range of topics and use cases. Whether you want to jailbreak GPT, generate code, or simply have fun with a lot of prompts, GPTPʀᴏᴍᴘꜱ can provide you with a wealth of prompts to choose from. Much more information in the [**WIKI**](https://github.com/tacocatCLAUS/gptp/wiki)
 
 ## ⚙️ Getting Started
 
