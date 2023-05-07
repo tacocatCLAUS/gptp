@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/tacocatCLAUS/gptp/wiki"><img src="https://img.shields.io/badge/WIKI-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Run on Repl.it"></a>
 </p>
+
 >_"Very smart people have found a way to outmaneuver the limits of ChatGPT and unleash its unfiltered, opinionated, and untethered alter-ego: DAN (Do Anything Now). It’s so simple that anyone can access the jailbreak simply by copying and pasting a prewritten paragraph of text into the chatbot"_
 >
 > \- [iflscience.com](https://www.iflscience.com/how-to-unlock-dan-the-unfiltered-and-opinionated-alter-ego-of-chatgpt-67754)
@@ -17,7 +18,7 @@ GPTPʀᴏᴍᴘᴛꜱ is a comprehensive and diverse resource for Chat GPT promp
 
 ## ⚙️ Getting Started
 
-To get started install any userscript manager extension in your browser, such as [**Tampermonkey**](https://www.tampermonkey.net/), [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [**Violentmonkey**](https://violentmonkey.github.io/), then click <a href="https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js" target="_blank"><b>here</b></a> for a clean installation of a script you can use to disable [moderation of gpt messages](). 
+To get started install any userscript manager extension in your browser, such as [**Tampermonkey**](https://www.tampermonkey.net/), [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [**Violentmonkey**](https://violentmonkey.github.io/), then click <a href="https://github.com/4as/ChatGPT-DeMod/raw/main/ChatGPT%20DeMod.user.js" target="_blank"><b>here</b></a> for a clean installation of a script you can use to disable [moderation of gpt messages](https://github.com/tacocatCLAUS/gptp/wiki/Moderation-Scripts). 
 
 
 ![separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
