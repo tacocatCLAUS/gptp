@@ -3,7 +3,7 @@
   GPTPʀᴏᴍᴘᴛꜱ
 </h1>
 <p align="center">
-  <a href="https://github.com/tacocatCLAUS/gptp/wiki"><img src="https://img.shields.io/badge/WIKI-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Run on Repl.it"></a>
+  <a href="https://github.com/tacocatCLAUS/gptp/wiki"><img src="https://img.shields.io/badge/WIKI-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Run on Repl.it"></a>  
 </p>
 
 >_"Very smart people have found a way to outmaneuver the limits of ChatGPT and unleash its unfiltered, opinionated, and untethered alter-ego: DAN (Do Anything Now). It’s so simple that anyone can access the jailbreak simply by copying and pasting a prewritten paragraph of text into the chatbot"_
